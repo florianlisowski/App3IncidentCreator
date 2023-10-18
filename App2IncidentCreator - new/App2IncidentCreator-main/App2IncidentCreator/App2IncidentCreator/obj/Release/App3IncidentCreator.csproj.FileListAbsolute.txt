@@ -1,0 +1,5 @@
+C:\Users\lisow\Documents\Visual Studio 2022\Projects\App2IncidentCreator\App2IncidentCreator\obj\Release\App3IncidentCreator.csproj.AssemblyReference.cache
+C:\Users\lisow\Documents\Visual Studio 2022\Projects\App2IncidentCreator\App2IncidentCreator\obj\Release\App2IncidentCreator.Form1.resources
+C:\Users\lisow\Documents\Visual Studio 2022\Projects\App2IncidentCreator\App2IncidentCreator\obj\Release\App2IncidentCreator.Properties.Resources.resources
+C:\Users\lisow\Documents\Visual Studio 2022\Projects\App2IncidentCreator\App2IncidentCreator\obj\Release\App3IncidentCreator.csproj.GenerateResource.cache
+C:\Users\lisow\Documents\Visual Studio 2022\Projects\App2IncidentCreator\App2IncidentCreator\obj\Release\App3IncidentCreator.csproj.CoreCompileInputs.cache
